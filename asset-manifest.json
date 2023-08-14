@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ParentLife/static/css/main.7953bc4d.css",
-    "main.js": "/ParentLife/static/js/main.f860e828.js",
+    "main.css": "/ParentLife/static/css/main.6b27f24b.css",
+    "main.js": "/ParentLife/static/js/main.033ca383.js",
     "index.html": "/ParentLife/index.html",
-    "main.7953bc4d.css.map": "/ParentLife/static/css/main.7953bc4d.css.map",
-    "main.f860e828.js.map": "/ParentLife/static/js/main.f860e828.js.map"
+    "main.6b27f24b.css.map": "/ParentLife/static/css/main.6b27f24b.css.map",
+    "main.033ca383.js.map": "/ParentLife/static/js/main.033ca383.js.map"
   },
   "entrypoints": [
-    "static/css/main.7953bc4d.css",
-    "static/js/main.f860e828.js"
+    "static/css/main.6b27f24b.css",
+    "static/js/main.033ca383.js"
   ]
 }
